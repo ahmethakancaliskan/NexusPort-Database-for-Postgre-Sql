@@ -31,3 +31,7 @@ This script is a single, executable file for any standard PostgreSQL environment
 5.  **Choose .tar File :** Upload  `NexusPort.tar` file and click Restore button
 
 The script will automatically create all of the tables, you can check it `Server/Databases/NexusPort/Schemas(1)/public/tables(8)` 
+
+
+in NexusPort-Database-for-Postgre-Sql/query-examples
+-- You can see query examples with question and answer in English, French and Turkish languages
