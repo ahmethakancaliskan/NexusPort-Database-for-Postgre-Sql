@@ -1,4 +1,3 @@
-# NexusPortCommerceDb-for-postgre-sql-script
 
 # 🛒 NexusPort E-Commerce Database | PostgreSQL Training Schema
 
