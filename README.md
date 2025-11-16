@@ -16,11 +16,11 @@ This script is a single, executable file for any standard PostgreSQL environment
 
 ---- First Way ----
 
-1.  **Open the Script:** Open the `Nexus-Port-Commerce-Database-Sample.sql` file and copy the entire content.
+1.  **Open the Script:** Open the `NexusPort.sql` file and copy the entire content.
 2.  **Open pgAdmin :** Create new database under `Server/Databases` by right clicking databases
 3.  **Database Name :** Give the name  `NexusPort`
 4.  **Open Query Tool :**  Right click on created database `NexusPort` and click `Query Tool` on list
-5.  **Paste and Execute:** Paste the **entire content** of the `Nexus-Port-Commerce-Database-Sample.sql` file into the query window and execute it (usually by pressing **F5** or the **Execute** button or Play Icon on other saying).
+5.  **Paste and Execute:** Paste the **entire content** of the `NexusPort.sql` file into the query window and execute it (usually by pressing **F5** or the **Execute** button or Play Icon on other saying).
 
 ---- Second Way ----
 
