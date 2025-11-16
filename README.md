@@ -1,7 +1,7 @@
 
 # 🛒 NexusPort E-Commerce Database | PostgreSQL Training Schema
 
-This repository contains the setup script for **NexusPort**, a realistic mock e-commerce database designed for PostgreSQL.
+This repository contains the setup script and .tar file for **NexusPort**, a realistic mock e-commerce database designed for PostgreSQL.
 
 It was created specifically for educational purposes, enabling students (especially QA Automation Engineers and Data Analysts) to practice complex SQL queries with consistent results. 
 (Data that appear to be errors in some query results are used for test scenarios. These incorrect scenarios are stated in the questions file prepared for the database.)
