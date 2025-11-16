@@ -24,7 +24,7 @@ This script is a single, executable file for any standard PostgreSQL environment
 
 ---- Second Way ----
 
-1.  **Download the .tar filet:** Download the .tar file  `NexusPort.tar`.
+1.  **Download the .tar file:** Download the .tar file  `NexusPort.tar`.
 2.  **Open pgAdmin :** Create new database under `Server/Databases` by right clicking databases
 3.  **Database Name :** Give the name `NexusPort`
 4.  **Restore :** Right click on database  `NexusPort` and click Restore
