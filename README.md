@@ -15,7 +15,7 @@ This script is a single, executable file for any standard PostgreSQL environment
 **There are two easy ways to load the database by using pgAdmin:**
 
 
----- First Way
+---- First Way ----
 
 1.  **Open the Script:** Open the `Nexus-Port-Commerce-Database-Sample.sql` file and copy the entire content.
 2.  **Open pgAdmin :** Create new database under `Server/Databases` by right clicking databases
@@ -23,7 +23,7 @@ This script is a single, executable file for any standard PostgreSQL environment
 4.  **Open Query Tool :**  Right click on created database `NexusPort` and click `Query Tool` on list
 5.  **Paste and Execute:** Paste the **entire content** of the `Nexus-Port-Commerce-Database-Sample.sql` file into the query window and execute it (usually by pressing **F5** or the **Execute** button or Play Icon on other saying).
 
----- Second Way
+---- Second Way ----
 
 1.  **Download the .tar filet:** Download the .tar file  `NexusPort.tar`.
 2.  **Open pgAdmin :** Create new database under `Server/Databases` by right clicking databases
